@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7d661a4-f83e-4343-8716-8c2b440a4eeb)## Olá! Eu sou o Lucas Menezes 👋
+## Olá! Eu sou o Lucas Menezes 👋
 
 - 🌱 Estudando Java, MySQL , Banco de dados, html, css.
 - 👨‍💻 futuro fullstack
@@ -7,7 +7,7 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Lucas-CSS" height="30" width="40" src=" https://icons-for-free.com/iff/png/512/development+logo+mysql+icon-1320184807686758112.png">
+   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://github.com/user-attachments/assets/f7d661a4-f83e-4343-8716-8c2b440a4eeb">
  
 </div>
 
