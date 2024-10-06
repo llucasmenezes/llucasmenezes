@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Menezes 👋
+![image](https://github.com/user-attachments/assets/f7d661a4-f83e-4343-8716-8c2b440a4eeb)## Olá! Eu sou o Lucas Menezes 👋
 
 - 🌱 Estudando Java, MySQL , Banco de dados, html, css.
 - 👨‍💻 futuro fullstack
