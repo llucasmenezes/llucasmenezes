@@ -7,7 +7,7 @@
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-MySql" height="30" width="40" src="[https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png](https://www.svgrepo.com/show/303251/mysql-logo.svg)">
+  <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
 </div>
 
 ##
