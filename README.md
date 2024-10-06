@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Menezes 👋
 
-- 🌱 Estudando Java,Html e CSS
+- 🌱 Estudando Java, MySQL , Banco de dados, html, css.
 - 👨‍💻 futuro fullstack
 
 <div style="display: inline_block"><br>
