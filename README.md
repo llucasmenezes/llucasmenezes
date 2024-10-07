@@ -4,13 +4,13 @@
 - 👨‍💻 futuro fullstack
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-   <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-   <img align="center" alt="Lucas-SpringBoot" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-   <img align="center" alt="Lucas-MongoDB" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+   <img align="center" alt="Lucas-MySql" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+   <img align="center" alt="Lucas-SpringBoot" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+   <img align="center" alt="Lucas-Docker" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+   <img align="center" alt="Lucas-MongoDB" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+    <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
 
