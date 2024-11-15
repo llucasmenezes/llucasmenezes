@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Menezes 👋
 
-- 🌱 Estudando Java, SpringBoot, Angular, git, Github, MongoDB, MySQL, Docker, SQL, Testes automatizados, ThymeLeaf, html, css.
+- 🌱 Estudando Java, SpringBoot, Angular, git, Github, MongoDB, MySQL, Docker, SQL, Testes automatizados, ThymeLeaf.
 - 👨‍💻 futuro fullstack
 
 <div style="display: inline_block"><br>
@@ -9,8 +9,7 @@
    <img align="center" alt="Lucas-SpringBoot" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
    <img align="center" alt="Lucas-Docker" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
    <img align="center" alt="Lucas-MongoDB" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-    <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
  
 </div>
 
