@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Lucas Menezes 👋
 
-- 🌱 Estudando Java, SpringBoot, Angular, git, Github, MongoDB, MySQL, Docker, SQL, Testes automatizados, ThymeLeaf.
-- 👨‍💻 futuro fullstack
+- 👨🏻‍💻 Focado em back-end
+- 🌱 Estudando Java, SpringBoot, git, Github, MongoDB, MySQL, Docker, SQL, Testes automatizados, ThymeLeaf.
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
